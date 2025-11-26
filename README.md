@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/09/fe/35/09fe35a351299f6d3111b1117441d136.jpg" alt="Aleqzandria Agdeppa Profile Picture" style="border-radius:50%;" width="150" height="150">
+  <img src="https://i.pinimg.com/1200x/09/fe/35/09fe35a351299f6d3111b1117441d136.jpg" alt="Aleqzandria Agdeppa Profile Picture" style="border-radius:50%;" width="500" height="220">
 </p>
 
 ## 👋 Hi, I'm Aleqzandria Agdeppa
