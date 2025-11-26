@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Aleqzandria Agdeppa Profile Picture" style="border-radius:50%;" width="150" height="150">
+  <img src="https://via.placeholder.com/150(https://i.pinimg.com/1200x/09/fe/35/09fe35a351299f6d3111b1117441d136.jpg)" alt="Aleqzandria Agdeppa Profile Picture" style="border-radius:50%;" width="150" height="150">
 </p>
 
 ## 👋 Hi, I'm Aleqzandria Agdeppa
@@ -9,7 +9,7 @@
 </div>
 <br>
 
-I am a second-year **Information Technology (IT)** student at New Era University, interested in **Web Development**, **Cybersecurity**, and **Cloud Technologies**. I enjoy working with Python, JavaScript, and database systems.
+I am a second-year **Information Technology (IT)** student at New Era University, interested in **Web Development**, **Cybersecurity**, and **Digital Marketing & Tech Integration**. I enjoy working with HTML, JavaScript, CSS, and database systems.
 
 ---
 
@@ -26,9 +26,9 @@ I am a second-year **Information Technology (IT)** student at New Era University
 
 | Certificate | Issued By | Month Issued |
 | :--- | :--- | :--- |
-| [AWS Certified Cloud Practitioner](YOUR_CERTIFICATE_LINK_HERE) | Amazon Web Services (AWS) | Jan 2026 |
-| [Python for Everybody Specialization](YOUR_CERTIFICATE_LINK_HERE) | Coursera/University of Michigan | Dec 2025 |
-| [Introduction to Cybersecurity](YOUR_CERTIFICATE_LINK_HERE) | Cisco | Nov 2025 |
+| [TBF](YOUR_CERTIFICATE_LINK_HERE) | TBF | MM/DD/YYYY |
+| [TBF](YOUR_CERTIFICATE_LINK_HERE) | TBF | MM/DD/YYYY |
+| [TBF](YOUR_CERTIFICATE_LINK_HERE) | TBF | MM/DD/YYYY |
 
 ---
 
@@ -69,7 +69,8 @@ I am a second-year **Information Technology (IT)** student at New Era University
 
 ## 📫 Connect with me
 - GitHub: [aleqzandriaagdeppa17](https://github.com/aleqzandriaagdeppa17)
-- [Optional: LinkedIn, Portfolio, Email, etc.]
+- E-mail: aleqzandriaagdeppa@gmail.com
+- Whatsapp: @leqza
 
 ---
 
