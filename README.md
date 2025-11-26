@@ -26,7 +26,7 @@ I am a second-year **Information Technology (IT)** student at New Era University
 
 | Certificate | Issued By | Month Issued |
 | :--- | :--- | :--- |
-| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/3231ad4c2aa14e6282b7fc83d4d1dbc4) | SQL and Relational Databases 101 | November 2025 |
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/3231ad4c2aa14e6282b7fc83d4d1dbc4) | Cognitive Class (IBM) | November 2025 |
 | [TBF](YOUR_CERTIFICATE_LINK_HERE) | TBF | MM/DD/YYYY |
 | [TBF](YOUR_CERTIFICATE_LINK_HERE) | TBF | MM/DD/YYYY |
 
